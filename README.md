@@ -47,8 +47,8 @@ Criar soluções completas e impactantes, crescer profissionalmente como **desen
 ---
 
 #### 📬 **Conecte-se comigo**  
-- **Email:** klaus@example.com  
-- **LinkedIn:** [Seu LinkedIn Aqui](#)  
+- **Email:** 
+- **LinkedIn:**   
 - **Portfólio:** *Em construção!*  
 
 ---
