@@ -40,8 +40,6 @@
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white) 
->![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white) 
->![Lottie](https://img.shields.io/badge/-Lottie-1E88E5?style=flat-square&logo=lottie&logoColor=white)
 
 ---
 
