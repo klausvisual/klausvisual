@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Klaus! 
 **Desenvolvedor Full Stack** em ascensão, transformando ideias em soluções tecnológicas robustas. Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)** com foco em aplicações modernas e escaláveis. 🚀
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([SEU_LINK_LINKEDIN](https://www.linkedin.com/in/klausvisual/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klausvisual/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-[![Portfólio](https://img.shields.io/badge/Portfólio)]()
+[![Portfólio](https://img.shields.io/badge/Portfólio-FF7139?style=flat-square)]()
 
 ---
 
@@ -67,9 +67,5 @@
 ---
 
 ## 📈 **Estatísticas do GitHub**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)](https://github.com/SEU_USERNAME)
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=radical)](https://git.io/streak-stats)
-
----
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klausvisual&layout=compact&theme=radical)](https://github.com/klausvisual)
+[![GitHub Streak](https://streak-stats.demolab.com?user=klausvisual&theme=radical)](https://git.io/streak-stats)
